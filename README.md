@@ -1,6 +1,6 @@
 # Hi there, I'm Rutvik Manvar 👋
 
-### 🚀 Backend Developer | Node.js Enthusiast | MCA Graduate
+### 🚀 Backend Developer | MCA Graduate
 
 I am a passionate Backend Developer focused on building scalable, high-performance server-side applications. With a strong foundation in Node.js ecosystem.
 
